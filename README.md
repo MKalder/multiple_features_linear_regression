@@ -7,7 +7,7 @@
 - [Packages Used](#packages-used)
 
 ## Introduction
-This repository provides information and resources related to linear regression on multiple features, a statistical method used for modeling the relationship between multiple features variable and one independent variables.
+This repository provides information and resources related to linear regression on multiple features, a statistical method used for modeling the relationship between multiple feature variables and one independent variable.
 
 ## General Equation
 The general equation for multiple linear regression is as follows:
