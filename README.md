@@ -12,7 +12,7 @@ This repository provides information and resources related to linear regression 
 ## General Equation
 The general equation for multiple linear regression is as follows:
 
-\[Y = \beta_0 + \beta_1X_1 + \beta_2X_2 + \ldots + \beta_pX_p + \epsilon\]
+Y = \beta_0 + \beta_1X_1 + \beta_2X_2 + \ldots + \beta_pX_p + \epsilon
 
 Where:
 - \(Y\) is the dependent variable (the target you want to predict).
